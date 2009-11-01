@@ -3,7 +3,7 @@
 % point and click debugging is disabled
 #(ly:set-option 'point-and-click #f)
 \header {
-	title = "Aleluya al Creador"
+	title = "Aleluya al creador"
 	tagline = "Coro Juvenil San Juan Bosco"
 }
 #(set-global-staff-size 20)
