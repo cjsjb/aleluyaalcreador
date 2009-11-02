@@ -13,15 +13,15 @@
 		\clef "treble"
 		\key g \major
 
-		r8 d'' e'' fis''  |
-		g'' 1  |
+		r4 d'' g'' a''  |
+		b'' 1  |
 		R1*8  |
-		r4 g' g' g'  |
-		fis' 4 e' 8 d' ~ d' 2  |
-		e' 1 ~  |
-		e' 2 ~ e' 4 fis' 8 e'  |
+		r4 g'' g'' g''  |
+		fis'' 4 e'' 8 d'' ~ d'' 2  |
+		e'' 1 ~  |
+		e'' 2. e'' 4  |
 		%% 15
-		d' 1  |
+		fis'' 4 e'' 8 d'' ~ d'' 2  |
 		R1*9  |
 		\bar "|."
 	} % Voice
