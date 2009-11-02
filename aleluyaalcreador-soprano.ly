@@ -11,11 +11,10 @@
 #(set-default-paper-size "letter")
 global = {
 	\time 4/4
-	\partial 2
-	\skip 2*47  %% 1-24
+	\skip 1*24  %% 1-24
 }
 globalTempo = {
-	\tempo 4 = 120  \skip 2*47
+	\tempo 4 = 120  \skip 1*24
 }
 \score {
 	\new StaffGroup << % common

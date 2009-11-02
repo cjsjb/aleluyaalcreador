@@ -13,8 +13,7 @@
 		\clef "treble"
 		\key g \major
 
-		\partial 2 r2
-
+		R1  |
 		b' 4 b' 8 b' 4 b' 4.  |
 		a' 4 g' 8 fis' ~ fis' 2  |
 		g' 4 g' 8 g' 4 g' 4.  |

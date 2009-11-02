@@ -2,7 +2,7 @@
 	\chords {
 		\set chordChanges = ##t
 		% intro
-		R2
+		R1
 
 		% aleluya al creador, aleluya al salvador
 		g1 d1 e1:m b1:m
