@@ -16,9 +16,9 @@
 		\partial 2 r2
 
 		\transpose c'' c' {
-		g' 4 g' g' g'  |
+		g' 4 g' 8 g' 4 g' 4.  |
 		fis' 4 e' 8 d' ~ d' 2  |
-		e' 4 e' e' e'  |
+		e' 4 e' 8 e' 4 e' 4.  |
 		%% 5
 		d' 4 c' 8 b ~ b 2  |
 		c' 4 c' 8 c' 4 c' 4.  |
@@ -27,9 +27,9 @@
 		d' 1  |
 		%% 10
 		R1*7  |
-		g' 4 g' g' g'  |
+		g' 4 g' 8 g' 4 g' 4.  |
 		fis' 4 e' 8 d' ~ d' 2  |
-		e' 4 e' e' e'  |
+		e' 4 e' 8 e' 4 e' 4.  |
 		%% 20
 		d' 4 c' 8 b ~ b 2  |
 		c' 4 c' 8 c' 4 c' 4.  |

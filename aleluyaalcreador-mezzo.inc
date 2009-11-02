@@ -15,9 +15,9 @@
 
 		\partial 2 r2
 
-		d' 4 d' d' d'  |
+		d' 4 d' 8 d' 4 d' 4.  |
 		d' 4 d' 8 d' ~ d' 2  |
-		b 4 b b b  |
+		b 4 b 8 b 4 b 4.  |
 		%% 5
 		b 4 d' 8 fis' ~ fis' 2  |
 		c' 4 c' 8 c' 4 c' 4.  |
@@ -26,9 +26,9 @@
 		b 1  |
 		%% 10
 		R1*7  |
-		d' 4 d' d' d'  |
+		d' 4 d' 8 d' 4 d' 4.  |
 		d' 4 d' 8 d' ~ d' 2  |
-		b 4 b b b  |
+		b 4 b 8 b 4 b 4.  |
 		%% 20
 		b 4 d' 8 fis' ~ fis' 2  |
 		c' 4 c' 8 c' 4 c' 4.  |
