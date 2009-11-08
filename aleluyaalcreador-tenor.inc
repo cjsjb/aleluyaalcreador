@@ -15,26 +15,26 @@
 
 		\transpose c'' c' {
 		R1  |
+		b' 4 b' 8 b' 4 b' 4.  |
+		a' 4 g' 8 fis' ~ fis' 2  |
 		g' 4 g' 8 g' 4 g' 4.  |
+		%% 5
 		fis' 4 e' 8 d' ~ d' 2  |
 		e' 4 e' 8 e' 4 e' 4.  |
-		%% 5
-		d' 4 c' 8 b ~ b 2  |
-		c' 4 c' 8 c' 4 c' 4.  |
-		d' 4 d' 8 d' 4 d' 4.  |
-		d' 2 e' 4 c'  |
-		d' 1  |
+		fis' 4 fis' 8 fis' 4 fis' 4.  |
+		g' 2 a' 4 fis'  |
+		g' 1  |
 		%% 10
 		R1*7  |
+		b' 4 b' 8 b' 4 b' 4.  |
+		a' 4 g' 8 fis' ~ fis' 2  |
 		g' 4 g' 8 g' 4 g' 4.  |
+		%% 20
 		fis' 4 e' 8 d' ~ d' 2  |
 		e' 4 e' 8 e' 4 e' 4.  |
-		%% 20
-		d' 4 c' 8 b ~ b 2  |
-		c' 4 c' 8 c' 4 c' 4.  |
-		d' 4 d' 8 d' 4 d' 4.  |
-		d' 2 e' 4 c'  |
-		d' 1  |
+		fis' 4 fis' 8 fis' 4 fis' 4.  |
+		g' 2 a' 4 fis'  |
+		g' 1  |
 		}
 		\bar "|."
 	} % Voice
