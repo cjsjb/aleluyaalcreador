@@ -22,16 +22,18 @@ globalTempo = {
 	\tempo 4 = 130  \skip 1*24
 }
 \score {
-	\new StaffGroup << % common
+	<<
 		% force offset of colliding notes in chords:
 		\override Score.NoteColumn #'force-hshift = #1.0
 
 		\include "aleluyaalcreador-acordes.inc"
+		\new StaffGroup <<
+			\include "aleluyaalcreador-soprano.inc"
+			\include "aleluyaalcreador-mezzo.inc"
+			\include "aleluyaalcreador-tenor.inc"
+			\include "aleluyaalcreador-bajo.inc"
+		>>
 		\include "aleluyaalcreador-violin.inc"
-		\include "aleluyaalcreador-soprano.inc"
-		\include "aleluyaalcreador-mezzo.inc"
-		\include "aleluyaalcreador-tenor.inc"
-		\include "aleluyaalcreador-bajo.inc"
 
 	>> % notes
 
