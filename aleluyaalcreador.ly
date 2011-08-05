@@ -31,7 +31,7 @@ globalTempo = {
 			\include "aleluyaalcreador-soprano.inc"
 			\include "aleluyaalcreador-mezzo.inc"
 			\include "aleluyaalcreador-tenor.inc"
-			\include "aleluyaalcreador-bajo.inc"
+			\include "aleluyaalcreador-baritono.inc"
 		>>
 		\include "aleluyaalcreador-violin.inc"
 
