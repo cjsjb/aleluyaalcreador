@@ -13,29 +13,27 @@
 		\clef "treble_8"
 		\key g \major
 
-		\transpose c'' c' {
 		R1  |
-		b' 4 b' 8 b' 4 b' 4.  |
-		a' 4 g' 8 fis' ~ fis' 2  |
-		g' 4 g' 8 g' 4 g' 4.  |
-		%% 5
-		fis' 4 e' 8 d' ~ d' 2  |
-		e' 4 e' 8 e' 4 e' 4.  |
-		fis' 4 fis' 8 fis' 4 fis' 4.  |
-		g' 2 a' 4 fis'  |
-		g' 1  |
-		%% 10
+		b 4 b 8 b 4 b 4.  |
+		a 4 g 8 fis ~ fis 2  |
+		g 4 g 8 g 4 g 4.  |
+%% 5
+		fis 4 e 8 d ~ d 2  |
+		e 4 e 8 e 4 e 4.  |
+		fis 4 fis 8 fis 4 fis 4.  |
+		g 2 a 4 fis  |
+		g 1  |
+%% 10
 		R1*7  |
-		b' 4 b' 8 b' 4 b' 4.  |
-		a' 4 g' 8 fis' ~ fis' 2  |
-		g' 4 g' 8 g' 4 g' 4.  |
-		%% 20
-		fis' 4 e' 8 d' ~ d' 2  |
-		e' 4 e' 8 e' 4 e' 4.  |
-		fis' 4 fis' 8 fis' 4 fis' 4.  |
-		g' 2 a' 4 fis'  |
-		g' 1  |
-		}
+		b 4 b 8 b 4 b 4.  |
+		a 4 g 8 fis ~ fis 2  |
+		g 4 g 8 g 4 g 4.  |
+%% 20
+		fis 4 e 8 d ~ d 2  |
+		e 4 e 8 e 4 e 4.  |
+		fis 4 fis 8 fis 4 fis 4.  |
+		g 2 a 4 fis  |
+		g 1  |
 		\bar "|."
 	} % Voice
 	\lyricsto "voice 5" \new Lyrics \lyricmode {

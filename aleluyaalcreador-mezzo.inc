@@ -14,21 +14,21 @@
 		\key g \major
 
 		R1  |
-		d' 4 d' 8 d' 4 d' 4.  |
-		d' 4 d' 8 a ~ a 2  |
+		g' 4 g' 8 g' 4 g' 4.  |
+		fis' 4 e' 8 d' ~ d' 2  |
 		b 4 b 8 b 4 b 4.  |
-		%% 5
+%% 5
 		b 4 d' 8 fis' ~ fis' 2  |
 		c' 4 c' 8 c' 4 c' 4.  |
 		a 4 a 8 a 4 a 4.  |
 		c' 2 d' 4 d'  |
 		b 1  |
-		%% 10
+%% 10
 		R1*7  |
-		d' 4 d' 8 d' 4 d' 4.  |
-		d' 4 d' 8 a ~ a 2  |
+		g' 4 g' 8 g' 4 g' 4.  |
+		fis' 4 e' 8 d' ~ d' 2  |
 		b 4 b 8 b 4 b 4.  |
-		%% 20
+%% 20
 		b 4 d' 8 fis' ~ fis' 2  |
 		c' 4 c' 8 c' 4 c' 4.  |
 		a 4 a 8 a 4 a 4.  |
