@@ -20,9 +20,9 @@
 %% 5
 		b 4 d' 8 fis' ~ fis' 2  |
 		c' 4 c' 8 c' 4 c' 4.  |
-		a 4 a 8 a 4 a 4.  |
-		c' 2 d' 4 d'  |
-		b 1  |
+		d' 4 d' 8 d' 4 d' 4.  |
+		d' 2 e' 4 c'  |
+		d' 1  |
 %% 10
 		R1*7  |
 		g' 4 g' 8 g' 4 g' 4.  |
@@ -31,9 +31,9 @@
 %% 20
 		b 4 d' 8 fis' ~ fis' 2  |
 		c' 4 c' 8 c' 4 c' 4.  |
-		a 4 a 8 a 4 a 4.  |
-		c' 2 d' 4 d'  |
-		b 1  |
+		d' 4 d' 8 d' 4 d' 4.  |
+		d' 2 e' 4 c'  |
+		d' 1  |
 		\bar "|."
 	} % Voice
 	\lyricsto "voice 4" \new Lyrics \lyricmode {

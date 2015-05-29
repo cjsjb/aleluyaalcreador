@@ -21,8 +21,8 @@
 		d 4 d 8 b, ~ b, 2  |
 		c 4 c 8 c 4 c 4.  |
 		d 4 d 8 d 4 d 4.  |
-		e 2 fis 4 d  |
-		d 1  |
+		c 2 d 4 fis  |
+		g 1  |
 %% 10
 		R1*7  |
 		g 4 g 8 g 4 g 4.  |
@@ -32,8 +32,8 @@
 		d 4 d 8 b, ~ b, 2  |
 		c 4 c 8 c 4 c 4.  |
 		d 4 d 8 d 4 d 4.  |
-		e 2 fis 4 d  |
-		d 1  |
+		c 2 d 4 fis  |
+		g 1  |
 		\bar "|."
 	} % Voice
 	\lyricsto "voice 6" \new Lyrics \lyricmode {
