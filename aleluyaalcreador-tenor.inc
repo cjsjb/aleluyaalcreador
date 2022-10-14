@@ -36,7 +36,7 @@
 		b 1  |
 		\bar "|."
 	} % Voice
-	\lyricsto "voz-tenor" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-tenor" {
 		¡A -- le -- lu -- ya al crea -- dor,
 		a -- le -- lu -- "ya al" sal -- va -- dor,
 		a -- le -- lu -- ya, a -- le -- lu -- ya,

@@ -36,7 +36,7 @@
 		g' 1  |
 		\bar "|."
 	} % Voice
-	\lyricsto "voz-soprano" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-soprano" {
 		¡A -- le -- lu -- ya al crea -- dor,
 		a -- le -- lu -- "ya al" sal -- va -- dor,
 		a -- le -- lu -- ya, a -- le -- lu -- ya,
