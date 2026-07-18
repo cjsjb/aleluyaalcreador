@@ -45,5 +45,5 @@
 		g'' 2 a'' 4 fis''  |
 		g'' 1  |
 		\bar "|."
-	} % Voice
->> % Staff ends
+	}
+>>

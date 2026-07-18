@@ -38,7 +38,8 @@
 		c' 2 d' 4 d'  |
 		b 1  |
 		\bar "|."
-	} % Voice
+	}
+
 	\new Lyrics \lyricsto "voz-tenor" {
 		¡A -- le -- lu -- ya al crea -- dor,
 		a -- le -- lu -- "ya al" sal -- va -- dor,
@@ -50,4 +51,4 @@
 		a -- le -- lu -- ya, a -- le -- lu -- ya,
 		a -- le -- lu -- ya!
 	}
->> % Staff ends
+>>

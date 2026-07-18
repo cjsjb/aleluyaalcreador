@@ -38,7 +38,8 @@
 		d' 2 e' 4 c'  |
 		d' 1  |
 		\bar "|."
-	} % Voice
+	}
+
 	\new Lyrics \lyricsto "voz-mezzo" {
 		¡A -- le -- lu -- ya al crea -- dor,
 		a -- le -- lu -- "ya al" sal -- va -- dor,
@@ -50,4 +51,4 @@
 		a -- le -- lu -- ya, a -- le -- lu -- ya,
 		a -- le -- lu -- ya!
 	}
->> % Staff ends
+>>
