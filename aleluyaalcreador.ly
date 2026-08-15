@@ -30,7 +30,11 @@ globalTempo = {
 			\include "aleluyaalcreador-tenor.inc"
 			\include "aleluyaalcreador-baritono.inc"
 		>>
-		\include "aleluyaalcreador-violin.inc"
+		\new StaffGroup <<
+			\include "aleluyaalcreador-violin.inc"
+			\include "aleluyaalcreador-viola.inc"
+			\include "aleluyaalcreador-cello.inc"
+		>>
 	>>
 
 	\layout { \context { \RemoveEmptyStaffContext } }
